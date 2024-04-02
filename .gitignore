@@ -1,0 +1,4 @@
+__pycache__/
+reinforce_env/
+q_learning.npy
+
